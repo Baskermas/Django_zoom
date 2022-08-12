@@ -5,8 +5,8 @@ from time import time
 import re
 
 # Enter your API key and your API secret
-API_KEY = 'ZKVN6S3cQfa8DGiKbr-rtQ'
-API_SEC = 'ObZG2bVATz9gYLOLch6Uk4eOfTAANxPITw6L'
+API_KEY = 'your_key'
+API_SEC = 'your_secret_key'
 
 
 # create a function to generate a token
